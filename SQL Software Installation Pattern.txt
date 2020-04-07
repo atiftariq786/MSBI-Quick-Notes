@@ -1,0 +1,4 @@
+1.Install SQL Server 2017
+2.Install Visual Studio Community 2017
+3.Install SQL Server Management Studio 2017
+4.Install SQL Server Data Tool 2017
